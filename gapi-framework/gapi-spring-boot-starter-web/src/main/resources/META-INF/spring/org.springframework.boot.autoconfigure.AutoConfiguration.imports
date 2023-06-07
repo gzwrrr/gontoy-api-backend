@@ -1,0 +1,6 @@
+org.gontoy.gapi.framework.apilog.config.GapiApiLogAutoConfiguration
+org.gontoy.gapi.framework.jackson.config.GapiJacksonAutoConfiguration
+com.github.xiaoymin.knife4j.spring.configuration.Knife4jAutoConfiguration
+org.gontoy.gapi.framework.swagger.config.GapiSwaggerAutoConfiguration
+org.gontoy.gapi.framework.web.config.GapiWebAutoConfiguration
+org.gontoy.gapi.framework.xss.config.GapiXssAutoConfiguration

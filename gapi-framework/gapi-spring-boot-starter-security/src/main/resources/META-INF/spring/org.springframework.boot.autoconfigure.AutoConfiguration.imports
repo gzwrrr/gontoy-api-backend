@@ -1,0 +1,2 @@
+org.gontoy.gapi.framework.security.config.GapiSecurityAutoConfiguration
+org.gontoy.gapi.framework.security.config.GapiWebSecurityConfigurerAdapter

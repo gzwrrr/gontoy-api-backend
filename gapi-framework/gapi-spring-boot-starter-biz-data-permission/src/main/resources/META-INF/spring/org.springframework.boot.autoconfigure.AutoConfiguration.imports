@@ -1,0 +1,2 @@
+org.gontoy.gapi.framework.datapermission.config.GapiDataPermissionAutoConfiguration
+org.gontoy.gapi.framework.datapermission.config.GapiDeptDataPermissionAutoConfiguration

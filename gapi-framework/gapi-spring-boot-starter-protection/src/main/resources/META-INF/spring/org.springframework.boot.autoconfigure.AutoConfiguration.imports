@@ -1,0 +1,2 @@
+org.gontoy.gapi.framework.idempotent.config.GapiIdempotentConfiguration
+org.gontoy.gapi.framework.lock4j.config.GapiLock4jConfiguration

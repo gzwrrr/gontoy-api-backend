@@ -1,0 +1,2 @@
+org.gontoy.gapi.framework.datasource.config.GapiDataSourceAutoConfiguration
+org.gontoy.gapi.framework.mybatis.config.GapiMybatisAutoConfiguration

@@ -1,0 +1,2 @@
+org.gontoy.gapi.framework.tracer.config.GapiTracerAutoConfiguration
+org.gontoy.gapi.framework.tracer.config.GapiMetricsAutoConfiguration
